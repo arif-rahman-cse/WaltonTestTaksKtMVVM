@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pwork/Arif_Vai/Moblie/app/src/main/res/layout/activity_main.xml" value="0.38153846153846155" />
+        <entry key="..\:/Pwork/Arif_Vai/Moblie/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Pwork/Arif_Vai/Moblie/app/src/main/res/layout/item_user_row.xml" value="0.3875" />
+        <entry key="..\:/Pwork/Arif_Vai/WaltonTestTask/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Pwork/Arif_Vai/WaltonTestTask/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Pwork/Arif_Vai/WaltonTestTask/app/src/main/res/layout/item_user_row.xml" value="0.1" />
+        <entry key="..\:/Pwork/Arif_Vai/WaltonTestTask/app/src/main/res/layout/item_view_product_feedback.xml" value="0.1" />
+        <entry key="..\:/Pwork/Arif_Vai/WaltonTestTask/app/src/main/res/layout/item_view_user_feedback_product.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2595108695652174" />
+        <entry key="app/src/main/res/layout/item_user_row.xml" value="0.2595108695652174" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2305" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
